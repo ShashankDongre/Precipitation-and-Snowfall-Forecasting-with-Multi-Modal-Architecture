@@ -19,6 +19,7 @@ The Lake Effect Snowfall Prediction project aims to predict lake effect snowfall
 - **Libraries**: Pandas, NumPy, Sklearn, TensorFlow, Keras
 - **Tools**: Jupyter Notebook, MS Excel, IDE
 
-
+### Dataset and Satellite Images:
+The entire dataset is more than 4Gb, which is way above the LFS services available in the free tier of GitHub or AWS, feel free to download the images and dataset from the drive link at https://drive.google.com/drive/folders/1WHDJdL5Fsb9NNBDJoev6W_pG9csG6X7c?usp=drive_link
 
 
